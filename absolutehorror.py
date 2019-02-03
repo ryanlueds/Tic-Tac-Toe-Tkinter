@@ -29,7 +29,7 @@ class Window(Tk):
     COLOR_DRAW ='gray40'
 
     '''
-    #just noticed some inconsistancy with how i named these variables however Python IDLE
+    just noticed some inconsistancy with how i named these variables however Python IDLE
     doesn't have a 'replace all' option, and i cant be bothered with copying this into the
     CS50 IDE
     '''
